@@ -1,1 +1,1 @@
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kunszg&langs_count=20)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KUNszg&layout=compact&langs_count=15&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=KUNszg&layout=compact&langs_count=15&theme=nord)
